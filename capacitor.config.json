@@ -1,0 +1,6 @@
+{
+  "appId": "com.evelyn.sugarcount",
+  "appName": "Sugar Counter",
+  "webDir": "dist",
+  "backgroundColor": "#12121A"
+}
